@@ -1,0 +1,23 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/AllignerAdder.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/CarryLookaheadAdder24b.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/CarryLookaheadAdder25b.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/CarryLookaheadAdder9b.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/EdgeCaseResolverAdder.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/EdgeCaseResolverMultiplier.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/ExpCalcMultiplier.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/FloatingPointAdder.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/FloatingPointMultiplier.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/FullAdder.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/MantissaCalculatorAdder.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/MantissaNormalizerAdder.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/MatrixMultiplicator.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/ShifterAdder.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/TopLevelModule.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/TwosComplement25b.vhd" \
+"../../../../fp_alu_add_mul.srcs/sources_1/new/TwosComplement9b.vhd" \
+"../../../../fp_alu_add_mul.srcs/sim_1/new/TB_TopLevelModule.vhd" \
+
+# Do not sort compile order
+nosort

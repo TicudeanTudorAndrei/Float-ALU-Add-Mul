@@ -1,0 +1,22 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sim_1/new/TB_TopLevelModule.vhd,1737022896,vhdl,,,,tb_toplevelmodule,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/AllignerAdder.vhd,1736996066,vhdl,,,,alligneradder,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/CarryLookaheadAdder24b.vhd,1736994339,vhdl,,,,carrylookaheadadder24b,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/CarryLookaheadAdder25b.vhd,1736976891,vhdl,,,,carrylookaheadadder25b,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/CarryLookaheadAdder9b.vhd,1736976896,vhdl,,,,carrylookaheadadder9b,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/EdgeCaseResolverAdder.vhd,1736975426,vhdl,,,,edgecaseresolveradder,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/EdgeCaseResolverMultiplier.vhd,1736992655,vhdl,,,,edgecaseresolvermultiplier,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/ExpCalcMultiplier.vhd,1736996493,vhdl,,,,expcalcmultiplier,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/FloatingPointAdder.vhd,1737001482,vhdl,,,,floatingpointadder,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/FloatingPointMultiplier.vhd,1737001596,vhdl,,,,floatingpointmultiplier,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/FullAdder.vhd,1736976905,vhdl,,,,fulladder,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/MantissaCalculatorAdder.vhd,1736976781,vhdl,,,,mantissacalculatoradder,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/MantissaNormalizerAdder.vhd,1736976859,vhdl,,,,mantissanormalizeradder,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/MatrixMultiplicator.vhd,1736995178,vhdl,,,,matrixmultiplicator,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/ShifterAdder.vhd,1736976606,vhdl,,,,shifteradder,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/TopLevelModule.vhd,1736999362,vhdl,,,,toplevelmodule,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/TwosComplement25b.vhd,1736976878,vhdl,,,,twoscomplement25b,,,,,,,,
+E:/SSC_Proj_Stefania/fp_alu_add_mul/fp_alu_add_mul.srcs/sources_1/new/TwosComplement9b.vhd,1736976885,vhdl,,,,twoscomplement9b,,,,,,,,

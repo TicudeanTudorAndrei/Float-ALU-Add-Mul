@@ -1,0 +1,34 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: E:/Vivado2022.2/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TB_TopLevelModule_behav xil_defaultlib.TB_TopLevelModule -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture edgecaseresolveradder_architecture of entity xil_defaultlib.EdgeCaseResolverAdder [edgecaseresolveradder_default]
+Compiling architecture fulladder_architecture of entity xil_defaultlib.FullAdder [fulladder_default]
+Compiling architecture carrylookaheadadder9b_architecture of entity xil_defaultlib.CarryLookaheadAdder9b [carrylookaheadadder9b_default]
+Compiling architecture twoscomplement9b_architecture of entity xil_defaultlib.TwosComplement9b [twoscomplement9b_default]
+Compiling architecture shifteradder_architecture of entity xil_defaultlib.ShifterAdder [shifteradder_default]
+Compiling architecture alligneradder_architecture of entity xil_defaultlib.AllignerAdder [alligneradder_default]
+Compiling architecture carrylookaheadadder25b_architecture of entity xil_defaultlib.CarryLookaheadAdder25b [carrylookaheadadder25b_default]
+Compiling architecture twoscomplement25b_architecture of entity xil_defaultlib.TwosComplement25b [twoscomplement25b_default]
+Compiling architecture mantissacalculatoradder_architecture of entity xil_defaultlib.MantissaCalculatorAdder [mantissacalculatoradder_default]
+Compiling architecture mantissanormalizeradder_architecture of entity xil_defaultlib.MantissaNormalizerAdder [mantissanormalizeradder_default]
+Compiling architecture floatingpointadder_architecture of entity xil_defaultlib.FloatingPointAdder [floatingpointadder_default]
+Compiling architecture edgecaseresolvermultiplier_architecture of entity xil_defaultlib.EdgeCaseResolverMultiplier [edgecaseresolvermultiplier_defau...]
+Compiling architecture carrylookaheadadder24b_architecture of entity xil_defaultlib.CarryLookaheadAdder24b [carrylookaheadadder24b_default]
+Compiling architecture matrixmultiplicator_architecture of entity xil_defaultlib.MatrixMultiplicator [matrixmultiplicator_default]
+Compiling architecture expcalcmultiplier_architecture of entity xil_defaultlib.ExpCalcMultiplier [expcalcmultiplier_default]
+Compiling architecture floatingpointmultiplier_architecture of entity xil_defaultlib.FloatingPointMultiplier [floatingpointmultiplier_default]
+Compiling architecture toplevelmodule_architecture of entity xil_defaultlib.TopLevelModule [toplevelmodule_default]
+Compiling architecture tb_toplevelmodule_architecture of entity xil_defaultlib.tb_toplevelmodule
+Built simulation snapshot TB_TopLevelModule_behav
