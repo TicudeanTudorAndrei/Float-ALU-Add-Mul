@@ -12,12 +12,6 @@ The design includes exponent alignment, mantissa processing, normalization, roun
 - NaN and ±Infinity handling
 - Fully modular VHDL structure (aligner, mantissa processor, normalizer, exponent unit, matrix multiplier, etc.)
 
-## Architecture Overview
-- Adder pipeline: Alligner → Mantissa Calculator → Normalizer → Rounding
-- Multiplier pipeline: Matrix Multiplicator → Exponent Calculator → Normalizer → Rounding
-- Edge-case resolvers for IEEE-754 exceptions
-- Top module that selects operation (0 = add, 1 = multiply)
-
 ## Floating-Point Addition Algorithm (IEEE-754)
 1. Unpack Fields
     - Extract the sign, exponent, and mantissa from both operands
